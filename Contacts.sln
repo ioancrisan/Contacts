@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactLibrary", "ContactLibrary\ContactLibrary.csproj", "{B56BDB51-D80E-4DC4-80D3-233B4C50F3C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactUI", "ContactUI\ContactUI.csproj", "{94D82795-2D7D-4921-86D1-AFF012C834EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56BDB51-D80E-4DC4-80D3-233B4C50F3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56BDB51-D80E-4DC4-80D3-233B4C50F3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56BDB51-D80E-4DC4-80D3-233B4C50F3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56BDB51-D80E-4DC4-80D3-233B4C50F3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D82795-2D7D-4921-86D1-AFF012C834EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D82795-2D7D-4921-86D1-AFF012C834EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D82795-2D7D-4921-86D1-AFF012C834EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D82795-2D7D-4921-86D1-AFF012C834EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
